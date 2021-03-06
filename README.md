@@ -4,8 +4,8 @@ I tried to create something similiar to the windows default calculator, here is 
 
 
 ## What does the Calculator include?
-Complex equasions such as parentheses equastions, percentage and etc..
-
+1.Complex equasions such as parentheses equastions, percentage and etc..
+2.Features such as checking incorrect equasion formats and other features like delete, reset and etc..
 
 ## What I learned
 1. Windows Form.
