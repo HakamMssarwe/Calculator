@@ -8,11 +8,11 @@ I tried to create something similiar to the windows default calculator, here is 
 2.Features such as checking incorrect equasion formats and other features like delete, reset and etc..
 
 ## What I learned
-1. Windows Form.
+1. Windows Forms.
 2. How to solve problems in a better way and turn bigger problems into small ones.
 
 ## Note
-I made this on my first year of college and I forgot to add the feature to allow float numbers. For now the calculator can only support calculations with integers but can also return float numbers as a result (might release this feature in the future depending on my schedule and free time)
+I made this on my first year of college and I forgot to add the feature to allow float numbers. For now the calculator can only support complex calculations with integers but can also return float numbers as a result. (I might release the usage of float feature in the future depending on my schedule and free time)
 
 
 
